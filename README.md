@@ -35,7 +35,7 @@ The dashboard was developed using Microsoft Power BI to transform raw data into 
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](dashboard.png)
+![Uploading Screenshot 2026-02-22 125118.png…]()
 
 ## Dataset
 
