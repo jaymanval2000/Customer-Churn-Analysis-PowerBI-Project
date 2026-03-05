@@ -35,7 +35,30 @@ The dashboard was developed using Microsoft Power BI to transform raw data into 
 
 ## Dashboard Preview
 
-![Uploading Screenshot 2026-02-22 125118.png…]()
+<img width="1447" height="809" alt="Screenshot 2026-03-05 173717" src="https://github.com/user-attachments/assets/9e1a012d-80e3-45b1-9bc3-4d35ac48aa97" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Dataset
 
